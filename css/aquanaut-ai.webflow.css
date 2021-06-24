@@ -1133,7 +1133,7 @@ blockquote {
 
 .button.tab {
   position: absolute;
-  bottom: 110px;
+  bottom: -100px;
   font-weight: 700;
 }
 
@@ -1180,7 +1180,7 @@ blockquote {
 
 .tab-title-container {
   position: absolute;
-  top: 25px;
+  top: -150px;
   z-index: 1;
   max-width: 480px;
   margin-bottom: 60px;
